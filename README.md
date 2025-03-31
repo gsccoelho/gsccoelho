@@ -1,6 +1,6 @@
 # Olá! 🙋🏻‍♂️
 
-![Visitas no Perfil](https://visitor-badge.glitch.me/badge?page_id=gsccoelho.gsccoelho)
+![Contador de Visitas](https://komarev.com/ghpvc/?username=gsccoelho&color=green)
 
 ## Sobre mim
 
