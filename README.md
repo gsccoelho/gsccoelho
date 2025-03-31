@@ -30,7 +30,7 @@
 
 <br />
 
-<p style="display:flex; justify-content:center; gap:10px;">
+<p style="display:flex; justify-content:center; align-items:center; gap:10px;">
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="50" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt="Dotnet" width="50" height="40"/>
@@ -49,7 +49,7 @@
 
 - Banco de Dados:
 
-<p style="display:flex; justify-content:center; gap:7px">
+<p style="display:flex; justify-content:center; align-items:center; gap:7px">
 <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
@@ -61,7 +61,7 @@
 
 - Inteligência Artificial
 
-<p style="display:flex; justify-content:center; gap:7px">
+<p style="display:flex; justify-content:center; align-items:center; gap:7px">
 <img src="https://cp.beget.com/shared/EXlbmo7zStLYxXYd6yFrM714qZj8LMkI/logo_n8n2x.png" alt="n8n" width="60" height="60"/>
 
 </p>
