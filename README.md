@@ -1,5 +1,7 @@
 # Olá! 🙋🏻‍♂️
 
+![Visitas no Perfil](https://visitor-badge.glitch.me/badge?page_id=gsccoelho.gsccoelho)
+
 ## Sobre mim
 
 - Sou Analista Desenvolvedor de software com sólida experiência em comunicação
