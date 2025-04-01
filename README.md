@@ -1,5 +1,9 @@
 # Olá! 🙋🏻‍♂️
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF28D7&center=true&vCenter=true&width=435&lines=Full-stack+web+developer;Software+Engineer;10%2B+years+of+coding+expirience;Always+learning+new+things" />
+</p>
+
 ![Contador de Visitas](https://komarev.com/ghpvc/?username=gsccoelho&color=green&style=for-the-badge)
 
 ## Sobre mim
