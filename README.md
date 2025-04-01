@@ -1,6 +1,6 @@
 # Olá! 🙋🏻‍♂️
 
-![Contador de Visitas](https://komarev.com/ghpvc/?username=gsccoelho&color=green)
+![Contador de Visitas](https://komarev.com/ghpvc/?username=gsccoelho&color=green&style=for-the-badge)
 
 ## Sobre mim
 
